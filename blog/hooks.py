@@ -29,7 +29,7 @@ add_to_apps_screen = [
 # app_include_js = "/assets/blog/js/blog.js"
 
 # include js, css files in header of web template
-web_include_css = "/assets/blog/css/blog.scss"
+web_include_css = "blog.bundle.css"
 # web_include_js = "/assets/blog/js/blog.js"
 
 # include custom scss in every website theme (without file extension ".scss")
