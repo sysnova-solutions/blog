@@ -242,6 +242,7 @@ def get_list_context(context=None):
 		no_breadcrumbs=True,
 		hide_filters=True,
 		# show_search = True,
+		show_sidebar=False,
 		title=_("Blog"),
 	)
 
